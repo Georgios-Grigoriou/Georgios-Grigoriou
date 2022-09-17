@@ -10,8 +10,7 @@
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiosvgrigoriou/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@georgiosvgrigoriou)  
-[![Twitter](https://img.shields.io/twitter/follow/GeorgeGegrigor?logo=Twitter&style=for-the-badge)](https://twitter.com/GeorgeGegrigor)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@georgiosvgrigoriou)  [![Twitter](https://img.shields.io/twitter/follow/GeorgeGegrigor?logo=Twitter&style=for-the-badge)](https://twitter.com/GeorgeGegrigor)
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
