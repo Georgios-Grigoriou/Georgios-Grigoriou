@@ -25,6 +25,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230db7ed.svg?style=for-the-badge&logo=azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/googlecloud-%230db7ed.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%655BE1.svg?style=for-the-badge&logo=awsd&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Projext Haystack](https://img.shields.io/badge/projecthaystack-%230db7ed.svg?style=for-the-badge&logo=haystack&logoColor=white)
 ![SQLite](https://img.shields.io/badge/mssqlserver-%2307405e.svg?style=for-the-badge&logo=sql&logoColor=white)
@@ -39,6 +41,7 @@
 ![LORAWAN](https://img.shields.io/badge/lorawan-%230db7ed.svg?style=for-the-badge&logo=lorawan&logoColor=white)
 ![IoT](https://img.shields.io/badge/iot-%230db7ed.svg?style=for-the-badge&logo=iot&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-%655BE1.svg?style=for-the-badge&logo=vscode&logoColor=white)
+
 
 ## 💳 Github Profile Summary Card
 <p align="center">
