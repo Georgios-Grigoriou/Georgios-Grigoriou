@@ -35,7 +35,6 @@
 ## 💳 Github Profile Summary Card
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Georgios-Grigoriou&theme=vue">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgios-Grigoriou&langs_count=5&theme=vue">
 </p>
 
 ## 📟 GitHub Stats
