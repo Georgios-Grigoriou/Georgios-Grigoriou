@@ -1,7 +1,7 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hello,  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Georgios Grigoriou</h1>
+         width="45" /> Nice to e-meet you. I'm Georgios Grigoriou</h1>
 
 - 😄 Pronouns: He/His
 - 🔭 I’m currently working on Smart Buildings Technologies, Ontologies, Building Data Analytics and Development of Building and IoT Data Pipelines 
@@ -40,19 +40,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Georgios-Grigoriou&theme=vue">
 </p>
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=Georgios-Grigoriou&theme=vue"/>
-</p>
-
-## 📟 GitHub Stats
-<p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Georgios-Grigoriou&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Georgios-Grigoriou&theme=vue" />
-</p> 
-
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
