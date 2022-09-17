@@ -10,6 +10,11 @@
 - 🤔 I’m looking for help with MLOps
 - 💬 Ask me about Smart Buildings, Ontologies, Building Data Analytics and Development of Building and IoT Data Pipelines 
 - 📫 How to reach me: [LinkedIn - @Georgios Grigoriou](https://www.linkedin.com/in/georgiosvgrigoriou/)
+- ⚡ Fun fact: I am fan of quotes. You can find one below 
+
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+---
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgiosvgrigoriou/) 
@@ -39,7 +44,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Georgios-Grigoriou&theme=vue">
 </p>
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
----
