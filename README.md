@@ -31,11 +31,12 @@
 ![Node-Red](https://img.shields.io/badge/nodered-%23000000.svg?style=for-the-badge&logo=node-red&logoColor=red)
 ![LORAWAN](https://img.shields.io/badge/lorawan-%230db7ed.svg?style=for-the-badge&logo=lorawan&logoColor=white)
 ![IoT](https://img.shields.io/badge/iot-%230db7ed.svg?style=for-the-badge&logo=iot&logoColor=white)
-
+![VSCode](https://img.shields.io/badge/vscode-%655BE1.svg?style=for-the-badge&logo=vscode&logoColor=white)
 
 ## 💳 Github Profile Summary Card
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Georgios-Grigoriou&theme=vue">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Georgios-Grigoriou&langs_count=5&theme=vue">
 </p>
 
 ## 📟 GitHub Stats
