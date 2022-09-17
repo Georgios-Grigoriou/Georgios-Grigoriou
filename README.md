@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: He/His
-- 🔭 I’m currently working on Smart Buildings, Ontologies, Building Data Analytics and Development of Building and IoT Data Pipelines 
+- 🔭 I’m currently working on Smart Buildings Technologies, Ontologies, Building Data Analytics and Development of Building and IoT Data Pipelines 
 - 🌱 I’m currently learning Microsoft Azure Cloud Computing Capabilities, MLOps, Flow-Based Programming and how to develop my portfolio on Github
 - 👯 I’m looking to collaborate on Data Analytics and Diagnostics in Portfolio of Buildings
 - 🤔 I’m looking for help with MLOps
@@ -42,5 +42,4 @@
 ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Georgios-Grigoriou&show_icons=true&theme=vue" />
-	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Georgios-Grigoriou&theme=vue" />
 </p> 
