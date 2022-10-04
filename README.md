@@ -36,6 +36,7 @@
 ![Skyspark](https://img.shields.io/badge/skyspark-%230db7ed.svg?style=for-the-badge&logo=skyspark&logoColor=red)
 ![Helium](https://img.shields.io/badge/Helium-%23000000.svg?style=for-the-badge&logo=helium&logoColor=white)
 ![Microsoft Power Platform](https://img.shields.io/badge/microsoftpowerplatform-%2307405e.svg?style=for-the-badge&logo=microsoft&logoColor=white)
+![MQTT](https://img.shields.io/badge/mqtt-3670A0?style=for-the-badge&logo=mqtt&logoColor=ffdd54)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Node-Red](https://img.shields.io/badge/nodered-%23000000.svg?style=for-the-badge&logo=node-red&logoColor=red)
