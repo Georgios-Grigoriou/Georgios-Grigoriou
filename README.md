@@ -3,7 +3,7 @@
          height="45"
          width="45" /> Nice to e-meet you. I'm Georgios Grigoriou</h1>
 
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him/His
 - 🔭 I’m currently working on Smart Buildings Technologies, Ontologies, Building Data Analytics and Development of Building and IoT Data Pipelines 
 - 🌱 I’m currently learning Microsoft Azure Cloud Computing Capabilities, MLOps, Flow-Based Programming, LORAWAN, Helium and how to develop my portfolio on Github
 - 👯 I’m looking to collaborate on Data Analytics and Diagnostics in Portfolio of Buildings
